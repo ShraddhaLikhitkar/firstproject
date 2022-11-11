@@ -61,6 +61,7 @@ html,body{
     color: rgb(148, 5, 51);
 }
 #text p{
+     font-size: 18px;
     padding: 30px 0;
 }
 #text .cc{
@@ -212,6 +213,9 @@ background: none;
     #right{
         width: 100%;
     }
-    
+     #text p{
+        font-size: 12px;
+    }
+
     
 }
